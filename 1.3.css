@@ -1,0 +1,9 @@
+.giua h1,h4{
+    text-align: center;
+}
+.giua h3,h6{
+    text-align: right;
+}
+body{
+    width: 300px;
+}

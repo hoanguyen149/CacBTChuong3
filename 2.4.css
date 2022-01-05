@@ -1,0 +1,13 @@
+.dau p{
+    text-align: center;
+}
+body{
+    width: 480px;
+}
+.hang{
+    display: flex;
+}
+.trai img{
+    height: 150px;
+    width: 300px;
+}

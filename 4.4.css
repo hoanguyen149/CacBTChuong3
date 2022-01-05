@@ -1,0 +1,21 @@
+.tong1{
+    display: flex;
+}
+.tong2{
+    display: flex;
+}
+.tong3{
+    display: flex;
+}
+.tong1 .phai{
+    padding-left: 100px;
+}
+.tong2 .phai{
+    padding-left: 130px;
+}
+.tong3 .phai{
+    padding-left: 50px;
+}
+body{
+    width: 400px;
+}

@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+.dau{
+    display: flex;
+}
+.duoi{
+    display: flex;
+}
+body{
+    width: 500px;
+}
+.dau .phai p{
+    width: 340px;
+    margin-top: -3px;
+}
+.duoi .trai p{
+    width: 310px;
+    margin-top: -5px;
+}

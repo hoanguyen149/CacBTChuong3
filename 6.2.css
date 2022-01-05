@@ -1,0 +1,42 @@
+.menu{
+    display: flex;
+    background-color: rgb(243, 243, 234);
+    width: 100%;
+}
+.menu .phai{
+    text-align: center;
+    width: 50%;
+    color: rgb(102, 102, 228);
+}
+.menu .trai{
+    text-align: center;
+    width: 50%;
+    color: rgb(102, 102, 228);
+}
+.tong{
+    display: flex;
+}
+.tong .phai p{
+    padding-left: 600px;
+}
+td{
+    text-align: center;
+}
+tr td img{
+   width: 200px;
+   height: 100px;
+}
+.cuoi p{
+text-align: center;
+}
+.mau{
+    color: chartreuse;
+}
+.mau11{
+    color: rgb(102, 102, 228);
+
+}
+h2{
+    text-align: center;
+    color: burlywood;
+}

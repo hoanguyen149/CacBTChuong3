@@ -1,0 +1,29 @@
+ul{
+    color: red;
+}
+ul li p{
+    color: black;
+}
+span{
+    color: red;
+    font-size: 15px;
+}
+.tong{
+    border-bottom: 1px solid red;
+}
+h4{
+    text-align: center;
+    color: seagreen;
+}
+h5{
+    color: tan;
+}
+body{
+    width: 700px;
+}
+.hinhanh img{
+    padding-left: 15px;
+}
+.badong {
+    margin-left: -25px;
+}

@@ -1,0 +1,12 @@
+.tong{ 
+    display: flex;
+}
+.phai h2{
+    padding-left: 100px;
+}
+body{
+    width: 500px;
+}
+.phai p{
+    padding-left: 15px;
+}
